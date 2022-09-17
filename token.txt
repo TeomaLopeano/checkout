@@ -1,2 +1,13 @@
+<<<<<<< HEAD
  mateo:  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
  emmanuel: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
+=======
+Mateo:
+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
+
+JuanPa:
+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
+
+Martin:
+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
+>>>>>>> 44fed566c94214c96c4460c319e37cc717cdce63
